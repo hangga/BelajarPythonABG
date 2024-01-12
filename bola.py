@@ -4,7 +4,7 @@ import random
 
 # Atur layar
 wn = turtle.Screen()
-wn.title("Tangkap Bola dengan Turtle")
+wn.title("Tangkis Bola dengan Turtle")
 wn.bgcolor("black")
 wn.setup(width=600, height=600)
 
